@@ -118,7 +118,7 @@ function renderAbout() {
     <div class="article-full">
       <h2>Nuestra Editorial</h2>
       <p class="drop-cap">The Pixel Times no es solo un noticiero; es una cápsula del tiempo digital. Fundado en la era de la información masiva, decidimos volver a las raíces: tipografía clara, columnas estructuradas y un respeto sagrado por el lector.</p>
-      <img src="https://picsum.photos/id/370/800/400" alt="Nuestra oficina">
+      <img src="https://tourhistoria.es/wp-content/uploads/2018/11/0-rotativaavapor_Erste-Rotationsmaschine-1876.png" alt="Nuestra oficina">
       <p>Nuestro equipo está compuesto por veteranos de la industria y entusiastas del hardware clásico. No buscamos el clickbait, buscamos la crónica. Creemos que la tecnología avanza muy rápido, pero el buen periodismo debe tener el peso de un periódico de domingo.</p>
     </div>
   `;
