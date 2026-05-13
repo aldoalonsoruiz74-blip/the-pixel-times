@@ -1,0 +1,74 @@
+[
+  {
+    "id": "noticia-1",
+    "title": "Anunciado The Legend of Zelda: Echoes of the Past para Nintendo Switch 2",
+    "summary": "Nintendo sorprende con nueva entrega de la saga que promete revolucionar el viaje en el tiempo como mecánica central.",
+    "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent vitae eros eget tellus tristique bibendum. Donec rutrum sed sem quis venenatis. Proin viverra nisi a augue fermentum, nec dapibus elit hendrerit. Maecenas sed mi nec mi tristique convallis. Vivamus ac felis vitae odio vulputate laoreet. Nullam auctor, nunc id gravida malesuada, est magna faucibus purus, sit amet viverra nunc ligula a dolor. Fusce interdum, ex eget condimentum venenatis, dolor elit aliquam nisi, a convallis erat eros nec est. Sed venenatis dapibus magna eget condimentum. Integer ut leo sed nisi blandit aliquam. Curabitur nec odio et lorem convallis facilisis. Nam at sapien vitae lacus convallis pulvinar. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Duis vel arcu non mi commodo fermentum. Aenean tincidunt, quam eget aliquam ultricies, velit eros fermentum nisi, ut aliquet nisi orci eu eros.",
+    "image": "https://picsum.photos/id/1043/800/400",
+    "category": "lanzamientos",
+    "date": "2026-04-28",
+    "author": "T. Arima",
+    "platforms": ["Nintendo Switch 2"],
+    "featured": true
+  },
+  {
+    "id": "noticia-2",
+    "title": "Elden Ring: Shadow of the Erdtree vende 10 millones en su primer mes",
+    "summary": "FromSoftware bate récords con la expansión más esperada del año.",
+    "content": "Contenido extenso sobre el éxito de ventas...",
+    "image": "https://picsum.photos/id/120/800/400",
+    "category": "lanzamientos",
+    "date": "2026-04-20",
+    "author": "M. Hidetaka",
+    "platforms": ["PC", "PS5", "Xbox Series X"],
+    "featured": false
+  },
+  {
+    "id": "noticia-3",
+    "title": "Análisis: Final Fantasy XVII - ¿El mejor JRPG de la generación?",
+    "summary": "Square Enix redefine el género con una historia madura y un sistema de combate híbrido.",
+    "content": "Review completa...",
+    "image": "https://picsum.photos/id/26/800/400",
+    "category": "reviews",
+    "date": "2026-04-15",
+    "author": "C. Trigales",
+    "platforms": ["PS5", "PC"],
+    "featured": false
+  },
+  {
+    "id": "noticia-4",
+    "title": "Counter-Strike 2 alcanza récord histórico de jugadores en Steam",
+    "summary": "El shooter competitivo supera los 2 millones de usuarios concurrentes.",
+    "content": "Texto sobre eSports y jugadores...",
+    "image": "https://picsum.photos/id/60/800/400",
+    "category": "esports",
+    "date": "2026-04-10",
+    "author": "Redacción eSports",
+    "platforms": ["PC"],
+    "featured": false
+  },
+  {
+    "id": "noticia-5",
+    "title": "PlayStation 6: filtradas las primeras especificaciones técnicas",
+    "summary": "Una fuente cercana a Sony revela detalles sobre la futura consola.",
+    "content": "Hardware, fecha estimada...",
+    "image": "https://picsum.photos/id/50/800/400",
+    "category": "hardware",
+    "date": "2026-04-05",
+    "author": "A. Mori",
+    "platforms": ["PS6"],
+    "featured": false
+  },
+  {
+    "id": "noticia-6",
+    "title": "El esperado 'Hollow Knight: Silksong' muestra gameplay y confirma fecha",
+    "summary": "Team Cherry pone fin a la espera con un nuevo tráiler de 10 minutos.",
+    "content": "Detalles del evento...",
+    "image": "https://picsum.photos/id/28/800/400",
+    "category": "indie",
+    "date": "2026-04-01",
+    "author": "L. Vinter",
+    "platforms": ["PC", "Switch", "PS5", "Xbox"],
+    "featured": true
+  }
+]
